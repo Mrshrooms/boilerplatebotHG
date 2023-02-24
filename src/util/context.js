@@ -3,7 +3,7 @@
     of bot data that should persist even while the bot is offline. Context is divided into "slices" with
     string names, which are mapped to any value you choose.
 */
-
+//test 3
 const fs = require('fs');
 const _ = require('lodash');
 const path = require('path');

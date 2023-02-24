@@ -1,7 +1,7 @@
 /* content.js
     Message-based content is kept here for organizational purposes.
 */
-
+//test2
 module.exports = {
     info: {
         description: 'BoilerplateBot info:',
