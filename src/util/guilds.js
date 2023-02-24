@@ -1,6 +1,8 @@
 /* guilds.js
     Implements several helpful serialization methods related to discord guilds.
 */
+//spaghettiiiiii
+
 
 const { getContext, setContextSlice } = require('./context');
 
